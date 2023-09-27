@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+Welcome to QuizMaster, a Flutter-based quiz application that tests your knowledge with a variety of questions. Each question has a time limit of 1 minute, and you'll get 20 different questions for every game session.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Quiz Questions**: Test your knowledge with 20 different quiz questions in each game session.
+- **Time Limit**: You have 1 minute to answer each question, adding excitement and challenge to the game.
+- **Animated Screens**: Engaging and visually appealing animated screens.
+- **Score Tracking**: Keep track of your score as you progress through the quiz.
+- **End of Game Summary**: View a summary of your performance at the end of each game session.
